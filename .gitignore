@@ -1,0 +1,21 @@
+#Mac
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# vi
+*~
+
+# vscode
+.vscode
+
+# General
+log/
+*.log
+
+# project
+commits.md
